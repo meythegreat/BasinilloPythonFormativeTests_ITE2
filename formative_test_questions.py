@@ -1,8 +1,8 @@
 # PYTHON FORMATIVE TESTS
 # MODULE 1
-# 1.     What are the primary features of Python that make it a preferred language for both novice and experienced programmers?
-# 2.     How does Python's readability and simplicity contribute to its widespread adoption in different technological fields, according to the introduction?
-# 3.     In what ways does the introduction explain Python's role in facilitating tasks such as web development, data analysis, and machine learning?
+# 1. What are the primary features of Python that make it a preferred language for both novice and experienced programmers?
+# 2. How does Python's readability and simplicity contribute to its widespread adoption in different technological fields, according to the introduction?
+# 3. In what ways does the introduction explain Python's role in facilitating tasks such as web development, data analysis, and machine learning?
 
 # MODULE 2
 # 1. Python Program to Print Full Name
