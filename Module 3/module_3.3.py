@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 3.3 - Formative Test
+# MODULE 3 - Formative Test
 # Develop a program that reads a boolean value as a string ('True' or 'False'), converts it to a boolean data type, and displays both the original string and the converted boolean along with their data types.
 
 input_str = input("Enter a boolean value as a string ('True' or 'False'): ")

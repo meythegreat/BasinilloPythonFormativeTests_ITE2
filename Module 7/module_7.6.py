@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 7.6 - Formative Test
+# MODULE 7 - Formative Test
 # 6. Create a function named calculate_average that takes a list of numbers as input and returns the average of those numbers.
 
 def calculate_average(numbers):

@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.5 - Formative Test
+# MODULE 4 - Formative Test
 # 5. Create a program that checks if a given character is a vowel or a consonant and prints the result.
 
 char = input("Enter a character: ").lower()

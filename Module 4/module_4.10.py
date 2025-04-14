@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.10 - Formative Test
+# MODULE 4 - Formative Test
 # 10. Write a program that calculates the sum of all the numbers from 1 to a given number.
 
 number = int(input("Enter a number: "))

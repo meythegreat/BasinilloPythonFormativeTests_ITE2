@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 3.6 - Formative Test
+# MODULE 3 - Formative Test
 # 6. Write a program that reads a string and prints its length
 
 string_input = input("Enter a string: ")

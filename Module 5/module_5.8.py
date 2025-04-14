@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 5.8 - Formative Test
+# MODULE 5 - Formative Test
 # 8. Create a program that prints the multiplication table of a given number using a for loop.
 
 number = int(input("Enter a number: "))

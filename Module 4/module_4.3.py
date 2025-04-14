@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.3 - Formative Test
+# MODULE 4 - Formative Test
 # 3. Develop a program that determines if a given year is a leap year or not and prints the result.
 
 year = int(input("Enter a year: "))

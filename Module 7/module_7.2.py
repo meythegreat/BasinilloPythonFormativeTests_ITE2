@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 7.2  - Formative Test
+# MODULE 7 - Formative Test
 # 2. Create a program that defines a list of strings and prints each string in reverse order.
 
 strings = ['Vice Ganda', 'Vhong Navarro', 'Karylle', 'Jhong Hilario', 'Billy Crawford']

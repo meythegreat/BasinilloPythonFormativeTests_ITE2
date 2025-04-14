@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.7 - Formative Test
+# MODULE 4 - Formative Test
 # 7. Write a program that checks if a given number is divisible by both 5 and 7 and prints the result.
 
 number = int(input("Enter a number: "))

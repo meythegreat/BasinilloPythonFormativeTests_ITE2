@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 6.9 - Formative Test
+# MODULE 6 - Formative Test
 # 9. Develop a program that defines a dictionary of car brands and their corresponding models, then prints each brand and its models.
 
 car_brands = {

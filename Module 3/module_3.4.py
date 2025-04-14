@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 3.4 - Formative Test
+# MODULE 3 - Formative Test
 # 4. Write a program that reads a string representing a number (integer or float), converts it to a float, and displays both the original string and the converted float along with their data types.
 
 number_string = input("Enter a number as a string: ")

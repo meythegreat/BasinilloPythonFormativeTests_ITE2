@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 2.2 - Formative Test
+# MODULE 2 - Formative Test
 # 2. Python Program to Collect Personal Information
 # ▪ Write a Python program that allows the user to input their personal information, including first name, middle name, last name, age, address, contact number, telephone number, and email.
 # ▪ Construct a sentence using the provided information to create a brief introduction.

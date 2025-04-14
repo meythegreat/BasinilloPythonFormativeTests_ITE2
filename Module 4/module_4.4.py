@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.4 - Formative Test
+# MODULE 4 - Formative Test
 # 4. Write a program that reads three numbers and prints the largest one.
 
 num1 = float(input("Enter the first number: "))

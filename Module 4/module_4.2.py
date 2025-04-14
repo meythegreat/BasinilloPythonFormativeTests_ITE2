@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.2 - Formative Test
+# MODULE 4 - Formative Test
 # 2. Create a program that checks if a given number is positive, negative, or zero and prints the result.
 
 number = float(input("Enter a number: "))

@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 6.8 - Formative Test
+# MODULE 6 - Formative Test
 # 8. Create a program that defines a tuple of ages and finds the minimum and maximum age, then prints both.
 
 ages = (25, 30, 22, 35, 18)

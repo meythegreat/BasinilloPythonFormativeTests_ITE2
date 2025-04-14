@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 6.6 - Formative Test
+# MODULE 6 - Formative Test
 # 6. Develop a program that defines a dictionary of book titles and their corresponding authors, then prints each book title and author.
 
 books = {

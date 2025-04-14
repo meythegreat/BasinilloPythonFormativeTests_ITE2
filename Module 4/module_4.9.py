@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.9 - Formative Test
+# MODULE 4 - Formative Test
 # 9. Develop a program that determines if a given number is a prime number or not and prints the result.
 
 def is_prime(n):

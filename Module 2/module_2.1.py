@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 2.1
+# MODULE 2 - Formative Test
 # 1. Python Program to Print Full Name
 # ▪  Develop a Python program that prompts the user to input their first name, middle name (if any), and last name.
 # ▪ Print the full name of the person. If the person doesn't have a middle name, print only the first name and last name.

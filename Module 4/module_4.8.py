@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 4.8 - Formative Test
+# MODULE 4 - Formative Test
 # 8. Create a program that checks if a given string is a palindrome or not and prints the result.
 
 def is_palindrome(s):

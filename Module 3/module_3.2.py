@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 3.2 - Formative Test
+# MODULE 3 - Formative Test
 # 2. Create a program that reads an integer, converts it to a string, and displays both the original integer and the converted string along with their data types.
 
 def convert_int_to_string():

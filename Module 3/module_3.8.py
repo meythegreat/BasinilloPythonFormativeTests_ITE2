@@ -1,6 +1,6 @@
 # Name: Miguel Angelo B. Basinillo
 # Section: BSIT 2A
-# MODULE 3.8 - Formative Test
+# MODULE 3 - Formative Test
 # 8. Develop a program that reads two strings and concatenates them.
 
 first_string = input("Enter the first string: ")
